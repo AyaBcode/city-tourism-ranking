@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-//hello professor choising choice 1 will for some reason not make the functions work so please try to start from 2 to see that it is working thank u.
+//hello choising choice 1 will for some reason not make the functions work so please try to start from 2 to see that it is working thank u.
 
 typedef struct
 {
